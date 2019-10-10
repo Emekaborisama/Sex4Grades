@@ -1,7 +1,7 @@
 # Sex4Grades BBC Project
 Sex for Grades: undercover inside Nigerian and Ghanaian universities - BBC Africa Eye documentary
 
-#Kindly see the contribution note. 
+### Kindly see the contribution note. 
 Let's work together on this project
 
 Copied from BBC Africa
