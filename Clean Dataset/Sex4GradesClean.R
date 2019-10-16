@@ -48,7 +48,7 @@ Clean_sex_for_grades <- tm_map(Clean_sex_for_grades , stemDocument)
 #create a term matrix 
 Clean_sex_for_grades_dtm <- TermDocumentMatrix(Clean_sex_for_grades)
 #remove sparse terms, set threshhold at 90%
-Clean_sex_for_grades_dtm <- removeSparseTerms(Clean_sex_for_grades_dtm, 0.90)
+#Clean_sex_for_grades_dtm <- removeSparseTerms(Clean_sex_for_grades_dtm, 0.90)
 
 #create matrix
 
@@ -56,6 +56,5 @@ Clean_sex_for_grades_matrix = as.matrix(Clean_sex_for_grades_dtm)
 v <- sort(rowSums(Clean_sex_for_grades_matrix),decreasing=TRUE)
 d <- data.frame(word = names(v),freq=v)
 
-View(Clean_sex_for_grades_matrix)
-
+write.csv(d, file = "tweets.csv")
 
