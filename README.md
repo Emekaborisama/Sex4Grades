@@ -15,9 +15,12 @@ Reporter Kiki Mordi, who knows first-hand how devastating sexual harassment can 
 
 While #Sex4Grades and #BBCAfricaEyes trend on twitter, Students used Twitter as a means to share their opinions and pour out their complaints. We were able to scrape tweets with the hashtag #Sex4Grades #BBCAfricaEyes to extract people's thoughts and perform an analysis to support the cause, also Map out the location that needs more attention and Africa Institution where people are reporting similar stories/cultures of students abuse.
 
-
-Our Process:
-- Perform Sentimental Analysis 
-- Analyze Location, Retweet_count, Favourite_count
-- Perform Time Series Analysis
-- E.t.c
+At the end of the project, we should be able to derive some actionable insight which includes:
+- Map out the location that needs more attention
+- Africa Institution where people are reporting similar stories/cultures of students abuse
+- Which gender complained the most?
+- Which time was most tweets or complains posted and what day was most tweets posted?
+- How many cases were reported by the individual
+- How many drop out of school tweets?
+- Number of reported cases by friends or family
+- Cases that were resolved when reported
