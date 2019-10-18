@@ -4,7 +4,7 @@ Sex for Grades: undercover inside Nigerian and Ghanaian universities - BBC Afric
 ### Kindly see the contribution note. 
 Let's work together on this project
 
-Copied from BBC Africa
+#### Copied from BBC Africa
 
 Universities in Nigeria and Ghana have been plagued by stories of sexual harassment by lecturers and professors for decades. Allegations include a wide array of abuses, from blackmailing students for sex in exchange for marks and admission to lewd comments and grooming.
  
@@ -15,7 +15,7 @@ Reporter Kiki Mordi, who knows first-hand how devastating sexual harassment can 
 
 While #Sex4Grades and #BBCAfricaEyes trend on twitter, Students used Twitter as a means to share their opinions and pour out their complaints. We were able to scrape tweets with the hashtag #Sex4Grades #BBCAfricaEyes to extract people's thoughts and perform an analysis to support the cause, also Map out the location that needs more attention and Africa Institution where people are reporting similar stories/cultures of students abuse.
 
-At the end of the project, we should be able to derive some actionable insight which includes:
+### At the end of the project, we should be able to derive some actionable insight which includes:
 - Map out the location that needs more attention
 - Africa Institution where people are reporting similar stories/cultures of students abuse
 - Which gender complained the most?
