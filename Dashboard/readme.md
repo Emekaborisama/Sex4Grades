@@ -1,6 +1,6 @@
-Here is the link to the PowerBi Dashbaord
+Here is the link to the PowerBi Dashboard
 
-This dashboard can only be opened with POWERBI Application
+This dashboard can only be viewed with Microsoft Power Bi Application
 
 Thank you [Deborah Alenkhe](https://github.com/DEBBY-CODE) for the assistance
 
